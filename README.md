@@ -1,6 +1,8 @@
    # ShimmerLayoutEffect
     Recyclerview with shimmer effect as same like as facebook effect when loading of events.
-    ![alt text](https://github.com/agursali/ShimmerLayoutEffect/blob/master/Screenshot_20170713-142420.png?raw=true)
+    
+    [![Screenshot_20170713-142514.png](https://s24.postimg.org/8wpg0x9rp/Screenshot_20170713-142514.png)](https://postimg.org/image/nfwl2c2wh/)
+    
    
     
     
